@@ -1,0 +1,7 @@
+#ele1{
+    font-size: 40px;
+}
+
+#ele1:hover{
+    cursor: pointer;
+}
