@@ -5,6 +5,7 @@
 
 /* FUNCIÓN MODIFICADA */
 example = function (a, b, c) {
-  resultado = a + b + c;
-  alert(resultado);
+  return a + b + c;
 };
+
+alert(example(2, 4, 8));
