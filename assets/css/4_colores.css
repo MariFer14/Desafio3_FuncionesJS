@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+}
+
+#figAzul{
+    background-color: blue; 
+    width: 200px; 
+    height: 200px; 
+    margin-right: 15px;
+}
+
+#figRojo{
+    background-color: red; 
+    width: 200px; 
+    height: 200px; 
+    margin-right: 15px;
+}
+
+#figVerde{
+    background-color: green; 
+    width: 200px; 
+    height: 200px; 
+    margin-right: 15px;
+}
+
+#figAmarillo{
+    background-color: yellow; 
+    width: 200px; 
+    height: 200px; 
+    margin-right: 15px;
+}
+
+#figAzul, #figRojo, #figVerde, #figAmarillo:hover{
+    cursor: pointer;
+}
